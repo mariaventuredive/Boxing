@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
     marginTop: 24,
   },
   frameGroup: {
-    marginTop: 50,
+    marginTop: 60,
   },
 });
 
